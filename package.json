@@ -1,6 +1,6 @@
 {
   "name": "c9m-sensor-process-memory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cloud9Metrics sensor for reading process memory usage",
   "main": "index.js",
   "scripts": {
